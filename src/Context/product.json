@@ -1,0 +1,331 @@
+{
+  "women": [
+    {
+      "id": 1,
+      "title": "Sleeveless Top with Skirt",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "women1"
+    },
+    {
+      "id": 2,
+      "title": "Red Printed Kurti",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "women2"
+    },
+    {
+      "id": 3,
+      "title": "White Long Kurti",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "women3"
+    },
+    {
+      "id": 4,
+      "title": "Green Ethnic Dress",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "women4"
+    },
+    {
+      "id": 5,
+      "title": "Pink Ethnic Dress",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "women5"
+    }
+  ],
+  "men": [
+    {
+      "id": 1,
+      "title": "Blazer with Pants",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "men1"
+    },
+    {
+      "id": 2,
+      "title": "Puffer Jacket",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "men2"
+    },
+    {
+      "id": 3,
+      "title": "Casual Denim Shirt",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "men3"
+    },
+    {
+      "id": 4,
+      "title": "Casual Winter Jacket",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "men4"
+    },
+    {
+      "id": 5,
+      "title": "Blue Denim Jacket",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "men5"
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "title": "Boys Casual Jacket",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "kids1"
+    },
+    {
+      "id": 2,
+      "title": "Girls Ethnic Dress",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "kids2"
+    },
+    {
+      "id": 3,
+      "title": "Boys Black Outfit",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "kids3"
+    },
+    {
+      "id": 4,
+      "title": "Girls White Dress",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "kids4"
+    },
+    {
+      "id": 5,
+      "title": "Boys Casual Red Outfit",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "kids5"
+    }
+  ],
+  "beauty": [
+    {
+      "id": 1,
+      "title": "BB Cream",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "beauty1"
+    },
+    {
+      "id": 2,
+      "title": "Foundation Tube",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "beauty2"
+    },
+    {
+      "id": 3,
+      "title": "HD Cream",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "beauty3"
+    },
+    {
+      "id": 4,
+      "title": "BB Foundation Kit",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "beauty4"
+    },
+    {
+      "id": 5,
+      "title": "CC Cream",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "beauty5"
+    }
+  ],
+  "home": [
+    {
+      "id": 1,
+      "title": "Wall Decor Circle",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "home1"
+    },
+    {
+      "id": 2,
+      "title": "Golden Leaf Decor",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "home2"
+    },
+    {
+      "id": 3,
+      "title": "Metal Art Decor",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "home3"
+    },
+    {
+      "id": 4,
+      "title": "Golden Flower Vase",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "home4"
+    },
+    {
+      "id": 5,
+      "title": "White Circle Vase",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "home5"
+    }
+  ],
+  "bags": [
+    {
+      "id": 1,
+      "title": "Brown Printed Handbag",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "bag1"
+    },
+    {
+      "id": 2,
+      "title": "Beige Tote Bag",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "bag2"
+    },
+    {
+      "id": 3,
+      "title": "Dark Brown Handbag",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "bag3"
+    },
+    {
+      "id": 4,
+      "title": "Black Leather Handbag",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "bag4"
+    },
+    {
+      "id": 5,
+      "title": "Multi-Color Tote Bag",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "bag5"
+    }
+  ],
+  "footwear": [
+    {
+      "id": 1,
+      "title": "Blue Heels",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "shoe1"
+    },
+    {
+      "id": 2,
+      "title": "Brown Slippers",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "shoe2"
+    },
+    {
+      "id": 3,
+      "title": "Formal Loafers",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "shoe3"
+    },
+    {
+      "id": 4,
+      "title": "Light Brown Flats",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "shoe4"
+    },
+    {
+      "id": 5,
+      "title": "Black Sandals",
+      "brand": "RANAGHART8",
+      "price": 1609,
+      "oldPrice": 3499,
+      "discount": "54% OFF",
+      "img": "shoe5"
+    }
+  ]
+}

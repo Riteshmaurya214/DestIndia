@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Loungewear",
+    "discount": "70%",
+    "cta": "Shop Now",
+    "img": "Category1"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "60%",
+    "cta": "Shop Now",
+    "img": "Category2"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "10%",
+    "cta": "Shop Now",
+    "img": "Category3"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "50%",
+    "cta": "Shop Now",
+    "img": "Category4"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "20%",
+    "cta": "Shop Now",
+    "img": "Category5"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "70%",
+    "cta": "Shop Now",
+    "img": "Category6"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "90%",
+    "cta": "Shop Now",
+    "img": "Category7"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "10%",
+    "cta": "Shop Now",
+    "img": "Category8"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "15%",
+    "cta": "Shop Now",
+    "img": "Category9"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "20%",
+    "cta": "Shop Now",
+    "img": "Category10"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "35%",
+    "cta": "Shop Now",
+    "img": "Category11"
+  },
+  {
+    "title": "Innerwear",
+    "discount": "60%",
+    "cta": "Shop Now",
+    "img": "Category12"
+  }
+]
