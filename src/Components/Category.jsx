@@ -20,7 +20,7 @@ export default function Category() {
 
   return (
     <div className="bg-white py-3 sm:py-4 md:py-5 lg:py-6">
-      <div className="w-full overflow-x-auto scrollbar-hide">
+      <div className="w-full overflow-x-auto overflow-y-hidden  scrollbar-hide">
         <div className="flex justify-evenly min-w-max px-1 sm:px-2">
           {categories.map((cat, index) => (
             <div 
