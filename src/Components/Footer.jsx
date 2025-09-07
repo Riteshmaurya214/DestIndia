@@ -4,7 +4,7 @@ import logo from "../assets/DestLogo.png"
 export default function Footer() {
   return (
     <footer className="bg-[#1c1c1c] text-white py-10 px-6 sm:px-12 lg:px-20">
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8">
         {/* Logo + Slogan */}
         <div>
        

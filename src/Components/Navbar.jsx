@@ -6,10 +6,11 @@ import Indiaicon from "../assets/image2.png";
 import Profileicon from "../assets/profile.png";
 import Bagicon from "../assets/bag.png";
 import Lux from "../assets/Lux.png";
+import { Link } from "react-router";
 
 export default function Navbar() {
   return (
-    <nav className="w-full">
+    <nav className="w-full top-0 left-0  fixed  z-50">
       {/* Top Bar */}
       <div className="bg-black text-white text-[8px] sm:text-xs md:text-sm flex justify-end gap-2 sm:gap-4 md:gap-6 py-4 px-2 ">
         <a href="#" className="hover:underline">Track Orders</a>
@@ -25,11 +26,14 @@ export default function Navbar() {
       {/* Main Navbar */}
       <div className="flex bg-[#2C2C2C] items-center justify-between px-2 sm:px-4 md:px-8 py-2">
         {/* Left: Logo */}
+       <Link to="/">
+      
         <img
           className="h-6 sm:h-8 md:h-12 cursor-pointer"
           src={DestIndiaLogo}
           alt="Dest India Logo"
         />
+       </Link>
 
     
         <div className="flex items-center gap-2 sm:gap-3 md:gap-4 flex-1 mx-2 sm:mx-4 md:mx-10">

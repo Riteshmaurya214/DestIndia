@@ -47,7 +47,8 @@ import shoe5 from "../assets/f5.png";
 
 
 
-export default function ProductCard({item , idx,}) {
+
+export default function BorderLessCart({item , idx,}) {
   const [liked, setLiked] = useState(false);
 
     const img = {    women1 
@@ -96,27 +97,18 @@ export default function ProductCard({item , idx,}) {
  
     <div key={idx} className=" 
       w-[180px] sm:w-[180px] md:w-[200px] lg:w-[230px] xl:w-[260px] 
-      rounded-md shadow-lg border border-gray-300 m-2 bg-white relative flex flex-col
+      rounded-md  m-2 bg-white relative flex flex-col
       transition-all 
     ">
    
-      <button
-        onClick={() => setLiked(!liked)}
-        className="absolute top-2 right-2 sm:top-3 sm:right-3 bg-white p-1 rounded-full shadow hover:scale-110 transition"
-      >
-        <Heart
-          className={`w-4 h-4 sm:w-5 sm:h-5 ${
-            liked ? "text-red-500 fill-red-500" : "text-gray-500"
-          }`}
-        />
-      </button>
+     
 
       {/* Image */}
-      <div className="w-full pt-0.5 px-0.5 sm:pt-1 sm:px-1 md:pt-2 md:px-2 aspect-[3/4] overflow-hidden rounded-t-lg">
+      <div className="w-full pt-0.5 px-0.5 sm:pt-1 sm:px-1 md:pt-2 md:px-2 aspect-[3/4] overflow-hidden rounded-md">
   <img
     src={img[item.img]}
     alt="Product"
-    className="object-cover w-full h-full rounded-t-sm"
+    className="object-cover w-full h-full rounded-md"
      onClick={()=>{Navigate(`/productDetails/${item.category}/${item.id}`)}}
   />
 </div>
@@ -139,10 +131,16 @@ export default function ProductCard({item , idx,}) {
           <span className="line-through text-gray-400 text-[9px] sm:text-xs md:text-sm">
             ₹{item.oldPrice}
           </span>
-          <span className="text-orange-500 text-[9px] sm:text-xs md:text-sm font-medium whitespace-nowrap">
+          <span className="text-green-500 text-[9px] sm:text-xs md:text-sm font-medium whitespace-nowrap">
             {item.discount}
           </span>
         </div>
+        <div className="mt-2 ">
+            <p className="text-xs inline  px-3 py-0.5 rounded lg:text-sm bg-gray-300 ">{item.rating}</p>
+            <span className="text-xs text-gray-400  pl-2">(5)</span>
+            
+        </div>
+        <span className="pt-2 text-red-500 text-xs">Limited Stock</span>
       </div>
     </div>
        </div>

@@ -2,330 +2,581 @@
   "women": [
     {
       "id": 1,
+      "category": "women",
       "title": "Sleeveless Top with Skirt",
-      "brand": "RANAGHART8",
+      "brand": "Zara",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "women1"
+      "img": "women1",
+      "department": "Casual Wear",
+      "rating": 4.2,
+      "stock": "In Stock",
+       "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Red", "Black"]
     },
     {
       "id": 2,
+      "category": "women",
       "title": "Red Printed Kurti",
-      "brand": "RANAGHART8",
+      "brand": "H&M",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "women2"
+      "img": "women2",
+      "department": "Ethnic Wear",
+      "rating": 4.0,
+      "stock": "Limited Stock",
+       "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Red", "White"]
     },
     {
       "id": 3,
+      "category": "women",
       "title": "White Long Kurti",
-      "brand": "RANAGHART8",
+      "brand": "W for Women",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "women3"
+      "img": "women3",
+      "department": "Ethnic Wear",
+      "rating": 4.3,
+      "stock": "In Stock",
+    "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["White", "Blue"]
     },
     {
       "id": 4,
+      "category": "women",
       "title": "Green Ethnic Dress",
-      "brand": "RANAGHART8",
+      "brand": "Global Desi",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "women4"
+      "img": "women4",
+      "department": "Festive Wear",
+      "rating": 4.5,
+      "stock": "In Stock",
+       "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Green", "Yellow"]
     },
     {
       "id": 5,
+      "category": "women",
       "title": "Pink Ethnic Dress",
-      "brand": "RANAGHART8",
+      "brand": "Biba",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "women5"
+      "img": "women5",
+      "department": "Festive Wear",
+      "rating": 4.4,
+      "stock": "Out of Stock",
+       "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Pink", "Golden"]
     }
   ],
   "men": [
     {
       "id": 1,
+      "category": "men",
       "title": "Blazer with Pants",
-      "brand": "RANAGHART8",
+      "brand": "Raymond",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "men1"
+      "img": "men1",
+      "department": "Formal Wear",
+      "rating": 4.6,
+      "stock": "In Stock",
+      "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Black", "Grey"]
     },
     {
       "id": 2,
+      "category": "men",
       "title": "Puffer Jacket",
-      "brand": "RANAGHART8",
+      "brand": "Nike",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "men2"
+      "img": "men2",
+      "department": "Winter Wear",
+      "rating": 4.4,
+      "stock": "Limited Stock",
+      "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Blue", "Black"]
     },
     {
       "id": 3,
+      "category": "men",
       "title": "Casual Denim Shirt",
-      "brand": "RANAGHART8",
+      "brand": "Levi's",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "men3"
+      "img": "men3",
+      "department": "Casual Wear",
+      "rating": 4.3,
+      "stock": "In Stock",
+     "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Blue", "Navy"]
     },
     {
       "id": 4,
+      "category": "men",
       "title": "Casual Winter Jacket",
-      "brand": "RANAGHART8",
+      "brand": "U.S. Polo",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "men4"
+      "img": "men4",
+      "department": "Winter Wear",
+      "rating": 4.2,
+      "stock": "Limited Stock",
+      "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Brown", "Black"]
     },
     {
       "id": 5,
+      "category": "men",
       "title": "Blue Denim Jacket",
-      "brand": "RANAGHART8",
+      "brand": "Wrangler",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "men5"
+      "img": "men5",
+      "department": "Casual Wear",
+      "rating": 4.5,
+      "stock": "In Stock",
+    "size": [
+        { "label": "S", "available": true },
+        { "label": "M", "available": false },
+        { "label": "L", "available": true },
+        { "label": "XL", "available": true },
+        { "label": "XXL", "available": false }
+      ],
+      "color": ["Blue", "Light Blue"]
     }
   ],
   "kids": [
     {
       "id": 1,
+      "category": "kids",
       "title": "Boys Casual Jacket",
-      "brand": "RANAGHART8",
+      "brand": "Puma Kids",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "kids1"
+      "img": "kids1",
+      "department": "Winter Wear",
+      "rating": 4.1,
+      "stock": "In Stock",
+      "size": ["4Y", "6Y", "8Y"],
+      "color": ["Red", "Blue"]
     },
     {
       "id": 2,
+      "category": "kids",
       "title": "Girls Ethnic Dress",
-      "brand": "RANAGHART8",
+      "brand": "Biba Kids",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "kids2"
+      "img": "kids2",
+      "department": "Ethnic Wear",
+      "rating": 4.3,
+      "stock": "Limited Stock",
+      "size": ["4Y", "6Y", "8Y", "10Y"],
+      "color": ["Pink", "Yellow"]
     },
     {
       "id": 3,
+      "category": "kids",
       "title": "Boys Black Outfit",
-      "brand": "RANAGHART8",
+      "brand": "Allen Solly Junior",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "kids3"
+      "img": "kids3",
+      "department": "Casual Wear",
+      "rating": 4.0,
+      "stock": "In Stock",
+      "size": ["6Y", "8Y", "10Y"],
+      "color": ["Black", "Grey"]
     },
     {
       "id": 4,
+      "category": "kids",
       "title": "Girls White Dress",
-      "brand": "RANAGHART8",
+      "brand": "H&M Kids",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "kids4"
+      "img": "kids4",
+      "department": "Party Wear",
+      "rating": 4.5,
+      "stock": "In Stock",
+      "size": ["6Y", "8Y", "10Y"],
+      "color": ["White", "Pink"]
     },
     {
       "id": 5,
+      "category": "kids",
       "title": "Boys Casual Red Outfit",
-      "brand": "RANAGHART8",
+      "brand": "Nike Kids",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "kids5"
+      "img": "kids5",
+      "department": "Sports Wear",
+      "rating": 4.2,
+      "stock": "Limited Stock",
+      "size": ["4Y", "6Y", "8Y"],
+      "color": ["Red", "Blue"]
     }
   ],
   "beauty": [
     {
       "id": 1,
+      "category": "beauty",
       "title": "BB Cream",
-      "brand": "RANAGHART8",
+      "brand": "Lakme",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "beauty1"
+      "img": "beauty1",
+      "department": "Makeup",
+      "rating": 4.3,
+      "stock": "In Stock",
+      "color": ["Natural", "Ivory"]
     },
     {
       "id": 2,
+      "category": "beauty",
       "title": "Foundation Tube",
-      "brand": "RANAGHART8",
+      "brand": "Maybelline",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "beauty2"
+      "img": "beauty2",
+      "department": "Makeup",
+      "rating": 4.4,
+      "stock": "Limited Stock",
+      "color": ["Beige", "Sand"]
     },
     {
       "id": 3,
+      "category": "beauty",
       "title": "HD Cream",
-      "brand": "RANAGHART8",
+      "brand": "MAC",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "beauty3"
+      "img": "beauty3",
+      "department": "Makeup",
+      "rating": 4.6,
+      "stock": "In Stock",
+      "color": ["Natural", "Honey"]
     },
     {
       "id": 4,
+      "category": "beauty",
       "title": "BB Foundation Kit",
-      "brand": "RANAGHART8",
+      "brand": "L'Oreal",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "beauty4"
+      "img": "beauty4",
+      "department": "Makeup",
+      "rating": 4.5,
+      "stock": "In Stock",
+      "color": ["Ivory", "Golden"]
     },
     {
       "id": 5,
+      "category": "beauty",
       "title": "CC Cream",
-      "brand": "RANAGHART8",
+      "brand": "Swiss Beauty",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "beauty5"
+      "img": "beauty5",
+      "department": "Makeup",
+      "rating": 4.1,
+      "stock": "Limited Stock",
+      "color": ["Natural", "Beige"]
     }
   ],
   "home": [
     {
       "id": 1,
+      "category": "home",
       "title": "Wall Decor Circle",
-      "brand": "RANAGHART8",
+      "brand": "Home Centre",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "home1"
+      "img": "home1",
+      "department": "Wall Decor",
+      "rating": 4.4,
+      "stock": "In Stock",
+      "color": ["Golden", "Black"]
     },
     {
       "id": 2,
+      "category": "home",
       "title": "Golden Leaf Decor",
-      "brand": "RANAGHART8",
+      "brand": "Chumbak",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "home2"
+      "img": "home2",
+      "department": "Wall Decor",
+      "rating": 4.5,
+      "stock": "Limited Stock",
+      "color": ["Golden", "Brown"]
     },
     {
       "id": 3,
+      "category": "home",
       "title": "Metal Art Decor",
-      "brand": "RANAGHART8",
+      "brand": "HomeTown",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "home3"
+      "img": "home3",
+      "department": "Wall Decor",
+      "rating": 4.2,
+      "stock": "In Stock",
+      "color": ["Black", "Silver"]
     },
     {
       "id": 4,
+      "category": "home",
       "title": "Golden Flower Vase",
-      "brand": "RANAGHART8",
+      "brand": "Ikea",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "home4"
+      "img": "home4",
+      "department": "Vase",
+      "rating": 4.3,
+      "stock": "In Stock",
+      "color": ["Golden", "White"]
     },
     {
       "id": 5,
+      "category": "home",
       "title": "White Circle Vase",
-      "brand": "RANAGHART8",
+      "brand": "Westside Home",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "home5"
+      "img": "home5",
+      "department": "Vase",
+      "rating": 4.1,
+      "stock": "Limited Stock",
+      "color": ["White", "Grey"]
     }
   ],
   "bags": [
     {
       "id": 1,
+      "category": "bags",
       "title": "Brown Printed Handbag",
-      "brand": "RANAGHART8",
+      "brand": "Caprese",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "bag1"
+      "img": "bag1",
+      "department": "Handbag",
+      "rating": 4.2,
+      "stock": "In Stock",
+      "color": ["Brown", "Beige"]
     },
     {
       "id": 2,
+      "category": "bags",
       "title": "Beige Tote Bag",
-      "brand": "RANAGHART8",
+      "brand": "Lavie",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "bag2"
+      "img": "bag2",
+      "department": "Tote Bag",
+      "rating": 4.4,
+      "stock": "Limited Stock",
+      "color": ["Beige", "White"]
     },
     {
       "id": 3,
+      "category": "bags",
       "title": "Dark Brown Handbag",
-      "brand": "RANAGHART8",
+      "brand": "Baggit",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "bag3"
+      "img": "bag3",
+      "department": "Handbag",
+      "rating": 4.3,
+      "stock": "In Stock",
+      "color": ["Dark Brown", "Black"]
     },
     {
       "id": 4,
+      "category": "bags",
       "title": "Black Leather Handbag",
-      "brand": "RANAGHART8",
+      "brand": "Da Milano",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "bag4"
+      "img": "bag4",
+      "department": "Leather Bag",
+      "rating": 4.6,
+      "stock": "In Stock",
+      "color": ["Black", "Grey"]
     },
     {
       "id": 5,
+      "category": "bags",
       "title": "Multi-Color Tote Bag",
-      "brand": "RANAGHART8",
+      "brand": "Guess",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "bag5"
+      "img": "bag5",
+      "department": "Tote Bag",
+      "rating": 4.1,
+      "stock": "Limited Stock",
+      "color": ["Multi", "White"]
     }
   ],
   "footwear": [
     {
       "id": 1,
+      "category": "footwear",
       "title": "Blue Heels",
-      "brand": "RANAGHART8",
+      "brand": "Bata",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "shoe1"
+      "img": "shoe1",
+      "department": "Party Wear",
+      "rating": 4.5,
+      "stock": "Limited Stock",
+      "size": ["UK 5", "UK 6", "UK 7"],
+      "color": ["Blue", "Black"]
     },
     {
       "id": 2,
+      "category": "footwear",
       "title": "Brown Slippers",
-      "brand": "RANAGHART8",
+      "brand": "Relaxo",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "shoe2"
+      "img": "shoe2",
+      "department": "Casual Wear",
+      "rating": 4.2,
+      "stock": "In Stock",
+      "size": ["UK 6", "UK 7", "UK 8"],
+      "color": ["Brown", "Beige"]
     },
     {
       "id": 3,
+      "category": "footwear",
       "title": "Formal Loafers",
-      "brand": "RANAGHART8",
+      "brand": "Clarks",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "shoe3"
+      "img": "shoe3",
+      "department": "Formal Wear",
+      "rating": 4.4,
+      "stock": "In Stock",
+      "size": ["UK 7", "UK 8", "UK 9"],
+      "color": ["Black", "Brown"]
     },
     {
       "id": 4,
+      "category": "footwear",
       "title": "Light Brown Flats",
-      "brand": "RANAGHART8",
+      "brand": "Metro",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "shoe4"
+      "img": "shoe4",
+      "department": "Casual Wear",
+      "rating": 4.1,
+      "stock": "In Stock",
+      "size": ["UK 4", "UK 5", "UK 6"],
+      "color": ["Light Brown", "Beige"]
     },
     {
       "id": 5,
+      "category": "footwear",
       "title": "Black Sandals",
-      "brand": "RANAGHART8",
+      "brand": "Woodland",
       "price": 1609,
       "oldPrice": 3499,
       "discount": "54% OFF",
-      "img": "shoe5"
-    }
-  ]
-}
+      "img": "shoe5",
+      "department": "Outdoor Wear",
+      "rating": 4.3
+      }
+    ]}

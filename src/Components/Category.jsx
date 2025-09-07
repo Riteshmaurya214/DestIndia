@@ -6,17 +6,21 @@ import f from "../assets/Footwear.png";
 import h from "../assets/HomeDecor.png";
 import b from "../assets/Beauty.png";
 import a from "../assets/Accessories.png";
+import { useNavigate } from 'react-router-dom';
+
 
 export default function Category() {
   const categories = [
-    { name: 'Ethnic Wear', img: e },
-    { name: 'Western Wear', img: w },
-    { name: 'Mens Wear', img: m },
-    { name: 'Footwear', img: f },
-    { name: 'Home Decor', img: h },
-    { name: 'Beauty', img: b },
-    { name: 'Accessories', img: a },
+    { id:'women', name: 'Ethnic Wear', img: e },
+    { id:'women', name: 'Western Wear', img: w },
+    { id:'men', name: 'Mens Wear', img: m },
+    { id:'footwear', name: 'Footwear', img: f },
+    { id:'home', name: 'Home Decor', img: h },
+    { id:'beauty', name: 'Beauty', img: b },
+    { id:'bags', name: 'Accessories', img: a },
   ];
+
+  const Navigate = useNavigate();
 
   return (
     <div className="bg-white py-3 sm:py-4 md:py-5 lg:py-6">
@@ -36,6 +40,7 @@ export default function Category() {
               {/* Card container */}
               <div className="h-[80%] relative rounded-t-[50%] rounded-b-xl sm:rounded-b-2xl lg:rounded-b-3xl bg-pink-100 flex ">
                 <img
+                  onClick = {()=> Navigate(`/categorypage/${cat.id}`) }
                   src={cat.img}
                   alt={cat.name}
                   className="
